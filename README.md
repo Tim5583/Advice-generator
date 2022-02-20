@@ -15,6 +15,7 @@
 ### Screenshot
 
 ![the screenshot](./Screenshot.png)
+- [live-URL](https://advice-gen-app.netlify.app/)
 
 ## My process
 
